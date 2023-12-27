@@ -37,16 +37,22 @@ function About() {
             </article>
           </div>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-            Repellendus aliquid tenetur, optio voluptates minus sit, perferendis
-            fugit nisi saepe aliquam consectetur, a vitae mollitia consequatur
-            voluptate maxime! Non, recusandae accusamus?
+            Hello, I'm Paul, a dedicated BSCIT student at Zetech University,
+            where I am passionately immersing myself in the world of technology.
+            As a Junior MERN stack developer, I channel my enthusiasm into
+            creating dynamic and efficient web applications. My journey in the
+            realm of IT is driven by an insatiable curiosity and a commitment to
+            continuous learning.
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veritatis,
-            debitis, tempore hic eaque accusantium placeat in iste iusto eius
-            aliquam vitae quibusdam voluptates, porro modi. Minus asperiores
-            eligendi consequatur obcaecati.
+            In the ever-evolving landscape of technology, I find joy in the
+            challenges of being a MERN stack developer—navigating MongoDB,
+            Express.js, React, and Node.js to craft seamless user experiences.
+            Beyond the code, I bring a personalized touch to my work, infusing
+            projects with precision and creativity. Join me as I embark on this
+            exciting journey, where each line of code contributes to the
+            narrative of my growth as a developer. Let's build tomorrow's
+            digital landscapes together!
           </p>
 
           <a href="#contact" className="btn btn-primary">

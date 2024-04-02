@@ -7,7 +7,7 @@ import Experience from "./components/experience/Experience";
 import Footer from "./components/footer/Footer";
 import Portfolio from "./components/portfolio/Portfolio";
 import Services from "./components/services/Services";
-import Testimonials from "./components/testimonials/Testimonials";
+import Achievements from "./components/testimonials/Achievements";
 import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { disableReactDevTools } from "@fvilers/disable-react-devtools";
@@ -23,7 +23,7 @@ function App() {
       <Experience />
       <Services />
       <Portfolio />
-      <Testimonials />
+      <Achievements />
       <Contact />
       <Footer />
 

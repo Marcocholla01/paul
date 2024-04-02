@@ -15,7 +15,7 @@ import "swiper/css";
 import "swiper/css/navigation";
 import "swiper/css/pagination";
 
-function Testimonials() {
+function Achievements() {
   const data = [
     {
       id: 1,
@@ -49,8 +49,8 @@ function Testimonials() {
 
   return (
     <section id="testimonials">
-      <h5>Review from Clients</h5>
-      <h2>Testimonials</h2>
+      <h5>Cartifcations allready have</h5>
+      <h2>Achievements</h2>
       <Swiper
         className="container testimonials__container"
         modules={[Pagination, Autoplay]}
@@ -74,4 +74,4 @@ function Testimonials() {
   );
 }
 
-export default Testimonials;
+export default Achievements;

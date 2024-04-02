@@ -12,12 +12,12 @@ function Portfolio() {
   const data = [
     {
       id: 1,
-      image: img1,
-      tittle: "Shop0 Market",
+      image: "https://raw.githubusercontent.com/Marcocholla01/e-Shop/main/client/src/assets/images/shopScreenShots/homepage.png",
+      tittle: "Shop0 MarketShopO E-Commerce Platform",
       alt: "Shop0 market image",
       desc: "",
-      code: "https://github.com/Marcocholla01",
-      demo: "https://github.com/Marcocholla01",
+      code: "https://github.com/Marcocholla01/e-Shop",
+      demo: "https://shop0-bice.vercel.app/",
     },
     {
       id: 2,

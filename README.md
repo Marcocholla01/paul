@@ -1,6 +1,6 @@
 # Portfolio Website (Marcocholla001)
 
-This is a personal portfolio website built using React.js, Swiper React, and React Toastify. It showcases my skills, projects, and provides a glimpse into my professional background.
+This is a personal portfolio website built using React.js, Swiper, EmailJS and React Toastify. It showcases my skills, projects, and provides a glimpse into my professional background.
 
 ## Table of Contents
 
@@ -36,8 +36,9 @@ Here are some of the screenshot of how the website looks like
 ## Technologies Used
 
 - React.js
-- Swiper React
+- SwiperJS
 - React Toastify
+- EmailJS
 
 ## Installation
 

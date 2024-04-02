@@ -12,8 +12,9 @@ function Portfolio() {
   const data = [
     {
       id: 1,
-      image: "https://raw.githubusercontent.com/Marcocholla01/e-Shop/main/client/src/assets/images/shopScreenShots/homepage.png",
-      tittle: "Shop0 MarketShopO E-Commerce Platform",
+      image:
+        "https://raw.githubusercontent.com/Marcocholla01/e-Shop/main/client/src/assets/images/shopScreenShots/homepage.png",
+      tittle: "ShopO E-Commerce Platform",
       alt: "Shop0 market image",
       desc: "",
       code: "https://github.com/Marcocholla01/e-Shop",
@@ -31,10 +32,10 @@ function Portfolio() {
     {
       id: 3,
       image: img3,
-      tittle: "RealEstate",
-      alt: "RealEastate  Image",
+      tittle: "Kobi Estate",
+      alt: "Kobi Estate image",
       desc: "",
-      code: "https://github.com/Marcocholla01",
+      code: "https://github.com/Marcocholla01/Real-Estate-Mern",
       demo: "https://github.com/Marcocholla01",
     },
     {

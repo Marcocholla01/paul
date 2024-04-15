@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
 
-import img2 from "../../assets/portfolio2.jpg";
+import img2 from "../../assets/iconnect.png";
 import img3 from "../../assets/portfolio3.jpg";
 import img4 from "../../assets/portfolio4.jpg";
 import img5 from "../../assets/portfolio5.png";
@@ -23,11 +23,11 @@ function Portfolio() {
     {
       id: 2,
       image: img2,
-      tittle: "Employee management System",
-      alt: "Employee management System Image",
+      tittle: "icconect",
+      alt: "iconnect home page",
       desc: "",
-      code: "https://github.com/Marcocholla01",
-      demo: "https://github.com/Marcocholla01",
+      code: "https://github.com/Marcocholla01/iconnect",
+      demo: "https://iconnect-weld.vercel.app",
     },
     {
       id: 3,
